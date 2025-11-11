@@ -68,6 +68,6 @@ In this experiment, three levels of prompts were used for the **Water Cycle vide
 
 
 ## **Result:**  
-The prompts were successfully executed to generate three AI-based educational videos on **“The Water Cycle.”**  
+The prompts were successfully executed to generate three AI-based educational Image on **“The Water Cycle.”**  
 As the prompt detail increased, the quality, clarity, and motion of the generated Image improved.  
 This demonstrates that **structured and descriptive prompting** leads to more engaging and realistic video outputs.
