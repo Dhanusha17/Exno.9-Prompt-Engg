@@ -12,7 +12,7 @@ Explore how prompting techniques can generate and manipulate educational video c
 
 ## **Procedure:**
 
-### **Step 1: Familiarize Yourself with Video Generation Tools**
+### **Step 1: Familiarize Yourself with IMAGE Generation Tools**
 Before generating the videos, study AI tools such as:  
 - **Gemini** – for text-to-video generation.  
 - **Runway Gen-2** – for realistic video motion.  
