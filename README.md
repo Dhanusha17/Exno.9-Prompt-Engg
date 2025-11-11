@@ -6,8 +6,8 @@
 To explore various prompting techniques used for **AI-based video generation** and understand how prompt refinement impacts the visual quality and realism of generated videos.  
 The selected theme for this experiment is **“The Water Cycle”**, showcasing how different levels of prompt detail influence the output.
 
-### Date: 06-11-2025
-### Reg NO: 212223240064
+### Date: 11-11-2025
+### Reg NO: 212223040034
 
 ## **Algorithm:**  
 Explore how prompting techniques can generate and manipulate educational video content (e.g., animations, transitions, and camera movement) using AI models like Gemini or Runway Gen-2.
