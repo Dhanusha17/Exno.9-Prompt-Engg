@@ -34,19 +34,14 @@ In this experiment, three levels of prompts were used for the **Water Cycle vide
 "A simple animation showing the process of the water cycle, including evaporation, condensation, and rainfall."
 
 **Output:**  
-
-
-https://github.com/user-attachments/assets/478a7416-cde5-43ca-8dbc-99431f937ccd
-
+<img width="651" height="616" alt="image" src="https://github.com/user-attachments/assets/7e226f84-1a49-42c7-a3b8-66c42b460e58" />
 
 
 ### **Prompt 2 – Refined Prompt**
 "A detailed educational animation of the water cycle showing the sun heating a lake, evaporation forming clouds, condensation in the sky, and rainfall completing the cycle with smooth transitions."
 
 **Output:**  
-
-
-https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/18c3ff87-3ba7-4730-86b5-5c28664fabc4" />
 
 
 
@@ -54,10 +49,7 @@ https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c
 "A cinematic 3D animation of the complete water cycle with camera movement following the vapor rising into clouds, zooming out to show rainfall and collection in lakes, using realistic colors and natural sound effects."
 
 **Output:**  
-
-
-https://github.com/user-attachments/assets/87ad0a99-565c-49c6-84a5-17e387fe900f
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f30db19a-9115-4866-a543-8b05b1c27d26" />
 
 
 
