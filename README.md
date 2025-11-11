@@ -3,7 +3,7 @@
 ## REG NO: 212223040034
 
 ## **Aim:**  
-To explore various prompting techniques used for **AI-based video generation** and understand how prompt refinement impacts the visual quality and realism of generated videos.  
+To explore various prompting techniques used for **AI-based Image generation** and understand how prompt refinement impacts the visual quality and realism of generated videos.  
 The selected theme for this experiment is **“The Water Cycle”**, showcasing how different levels of prompt detail influence the output.
 
 ## **Algorithm:**  
