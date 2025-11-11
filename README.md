@@ -3,20 +3,20 @@
 ## REG NO: 212223040034
 
 ## **Aim:**  
-To explore various prompting techniques used for **AI-based Image generation** and understand how prompt refinement impacts the visual quality and realism of generated videos.  
+To explore various prompting techniques used for **AI-based Image generation** and understand how prompt refinement impacts the visual quality and realism of generated Image.  
 The selected theme for this experiment is **“The Water Cycle”**, showcasing how different levels of prompt detail influence the output.
 
 ## **Algorithm:**  
-Explore how prompting techniques can generate and manipulate educational video content (e.g., animations, transitions, and camera movement) using AI models like Gemini or Runway Gen-2.
+Explore how prompting techniques can generate and manipulate educational image content (e.g., animations, transitions, and camera movement) using AI models like Gemini or Runway Gen-2.
 
 
 ## **Procedure:**
 
 ### **Step 1: Familiarize Yourself with IMAGE Generation Tools** 
-Before generating the videos, study AI tools such as:  
-- **Gemini** – for text-to-video generation.  
-- **Runway Gen-2** – for realistic video motion.  
-- **Pictory** – for text-to-educational narration videos.  
+Before generating the Image, study AI tools such as:  
+- **Gemini** – for text-to-Image generation.  
+- **Runway Gen-2** – for realistic Image motion.  
+- **Pictory** – for text-to-educational narration Images.  
 
 Each tool supports creating short clips from text-based prompts and i used the GEMINI VEO 3
 
